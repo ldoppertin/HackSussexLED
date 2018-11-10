@@ -10,7 +10,7 @@
 import time
 from dotstar import Adafruit_DotStar
 
-numpixels = 128 # Number of LEDs in strip
+numpixels = 1152 # Number of LEDs in strip
 
 # Here's how to control the strip from any two GPIO pins:
 strip    = Adafruit_DotStar(numpixels, 2000000)
